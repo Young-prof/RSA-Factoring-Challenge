@@ -2,7 +2,7 @@
 
 ![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/110098940/219950176-b01d033c-dde0-4727-879b-cfe5575af5e0.png)
 
-## Description
+## Project Description
 
 This project is designed to factorize as many numbers as possible into a product of two smaller numbers.
 It works perfectly for that except the case of bignums (numbers bigger than long long unsigned integers)
@@ -28,4 +28,4 @@ please any contribution towards making this project work for bignums will be hig
 
 ## Author
 
-[Karlie Moyo](www.github.com/karlie-crypto)
+### Tekenatei Franklyn
